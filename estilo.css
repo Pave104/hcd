@@ -1,0 +1,150 @@
+
+
+.ouvir{
+text-align: center;
+background: #ffc77d;
+border:1px black solid;
+  width: 1300px
+  height:30px;
+}
+   
+      
+
+  
+
+#principal{
+  
+   width: 300px;
+  height: 300px;
+}
+
+
+body{
+ 
+
+background:#fff2df;
+font :20px Arial,sans-serif;
+}
+
+.conteudo{
+      background: white;
+      padding: 5px 5px 5px 5px;
+      margin: 5px;
+     width: 410px;
+	border: 2px solid black;
+     float:left;
+
+}
+
+
+  #principal2{
+
+    width: 1330px;
+    border:solid 1px black;
+
+   background: #ffc77d;
+
+
+
+
+  }
+
+
+
+  .clear{
+
+
+
+  	clear:both;
+  }
+
+
+      #titulo{
+
+        
+         text-align: center;
+
+
+      }
+
+
+
+      #p1{
+
+         text-align: center;
+
+      }
+
+
+
+      #container{
+
+        text-align: center;
+         margin-left: 40px;
+        width: 1310px;
+        padding: 10px;
+
+
+      }
+
+
+
+      .cart{
+
+        margin: 100px  auto;
+         padding-left: 80px;
+        float:left;
+      
+      }
+
+
+      .result{
+
+       float:left;
+
+
+      }
+
+
+      #bordatabela{
+
+          border: 2px black solid;
+           border-collapse:collapse;
+      }
+
+
+
+      #menu{
+             
+        
+             margin:5px;
+       border: 1px red solid;
+       width: 1330px;
+       padding: 1px;
+       font-size: 2em;
+      }
+
+
+      #ttr{
+
+           margin: 10px;
+
+
+      }
+
+      a{
+       margin: 30px;
+    text-decoration-line: none;
+      padding: 15px;
+      }
+
+
+      .result2{
+
+
+  float:left;
+     
+  border: 2px solid black;
+
+
+      }
